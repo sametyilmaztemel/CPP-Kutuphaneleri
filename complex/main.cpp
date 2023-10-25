@@ -1,7 +1,7 @@
 #include <iostream>
 #include "Complex.h"
 
-using namespace std; // std namespace'i kullanılabilir hale getirildi
+using namespace std;
 
 int main() {
     // Complex sınıfını kullanarak iki complex sayı oluşturun
